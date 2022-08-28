@@ -1,32 +1,51 @@
 {
-  "basics": {
-    "name": "Bobby Roth",
-    "label": "Shidler Underagraduate",
-    "picture": "https://github.com/bobbyir.png",
-    "email": "bobbyir@hawaii.edu",
-    "phone": "571-277-8790",
-    "website": "https://bobbyir.github.io",
-    "summary": "I am studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "bobbyir", "url": "http://github.com/bobbyir" },
-    ]
-  },
-  "interests": [
-    { "name": "Gaming" },
-    { "name": "Outdoor Activities" },
-    { "name": "Investing" },
-    {"name": "Japanese"}
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2024)",
-      "studyType": "BBA",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
-      "courses": [
+   "basics":{
+      "name":"Bobby Roth",
+      "label":"Shidler Underagraduate",
+      "picture":"https://github.com/bobbyir.png",
+      "email":"bobbyir@hawaii.edu",
+      "phone":"571-277-8790",
+      "website":"https://bobbyir.github.io",
+      "summary":"I am studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2024.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"bobbyir",
+            "url":"http://github.com/bobbyir"
+         }
       ]
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"Gaming"
+      },
+      {
+         "name":"Outdoor Activities"
+      },
+      {
+         "name":"Investing"
+      },
+      {
+         "name":"Japanese"
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Spring, 2024)",
+         "studyType":"BBA",
+         "startDate":"2020-09-01",
+         "endDate":"Present",
+         "courses":[
+            
+         ]
+      }
+   ]
 }
