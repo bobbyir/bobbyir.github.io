@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "WOD E-1"
+title: "Check Point Assignment3"
 # All dates must be YYYY-MM-DD format!
-date: 2022-08-26
+date: 2022-11-30
 published: true
 ---
 
