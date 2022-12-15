@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="E5 | Bobby Roth | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/bobbyir.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Bobby Roth | Professional Portfolio">
+    <meta property="og:url" content="https://bobbyir.github.io/essays/e5.html">
+    <meta property="og:title" content="E5 | Bobby Roth | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/bobbyir.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>E5 | Bobby Roth | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Bobby Roth</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">E5</h1>
+  <span class="date">22 Nov 2022</span>
+  <hr>
+  <p>Provide a brief introduction to the assignment along with a link to this page for further details</p>
+<h3>Introduction</h3>
+<p>In this assignment we had to implement a login and registration page that has to occur first before displaying the invoice.</p>
+<h3>What did you learn from this assignment?</h3>
+<p>I learned a lot about passing in data from a query string in a get/post request, learning how to read RegEx, and reading and writing to the file properly. We both had to incorporate many functions to check for validation for proper formatting from the forms such as case sensitivity, checking if the email is taken and proper x@y.z email formats. Because of this, using the .match() function with RegEx was something that we had to use and learn about from alternative sources on our own. Something also that is interesting that we learned was updating sticky forms. For instance, let’s say I register for an account and I input invalid information for my email, my email should be sticky. However if i go back and correct my email but then my password now is incorrect, my email will grab from the old params of the incorrect email format. Because of this, you had to use the params.set() method to update the new information to make it sticky.</p>
+<h3>Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).</h3>
+<p>Me: 55%
+Eva Asiskovich: 45%
+When working on the assignment I would like to say we nearly had an equal share in contributing to the assignment. The only reason why I gave myself a higher percentage is because I had to help with the encryption part of the project. This was something that was hard to learn since a lot of the encryption libraries imported from java did not specifically allow to match encrypted passwords. For instance, my first time around I had tried importing BCrypt, but later realized that BCrypt does not allow checking for 2 encrypted passwords. Because of this, I asked for Kazman to see what libraries he recommended using and we went with crypto. I learned that crypto hashes passwords in a specific algorithm that allows the same encryption for the same passwords with case sensitivity.</p>
+
+<h3>How did you get help when you needed it? What did you need help with?</h3>
+<p>Most of our time writing code was helped from old lab lectures and google. I had gone in for office hours a few times for the encryption help however, everything else I found to find information online.</p>
+<h3>How was developing this assignment different than assignment #1?</h3>
+<p>I would say that assignment #2 was a big jump from assignment #1. The parts that were the same were the validation checkings, making sticky, as well as grabbing information from the params. However, a lot of assignment#2 requirements required a lot of independent research such as knowing how to read RegEx and looking up how the .match() works. I would say the part that took the most time was passing in information from the display page all the way to the invoice. Since I was using nodemon, every time I wrote to the file the server was reset. This was difficult to process with the params.</p>
+<h3>Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging</h3>
+<p>70% of the time spend thinking about how to approach the project
+30% writing code
+Most of the time spent was me and Eva drawing out how we would implement our systems over discord. We thought of ways such as whether we want to pass the data by query or let the server hold all the information. Moreover, we wrote out checklists that should be required and had everything planned out. Afterwards, we implemented the code with a lot of help from outside sources and previous labs.</p>
+<h3>Describe what worked well with this project? What did not work well?</h3>
+<p>I would say that I am happy with the overall project. Our validations work correctly and you can successfully login or register. One thing that did not work well was updating the quantities after you purchase something. I realized that since I was using nodemon I had to redefine my product array to the newly written file. This was a minor mistake however, I did feel frustrated when I found this out.</p>
+<h3>If you could go back in time and do things differently, what would you do differently?</h3>
+<p>If I were to go back I would probably do a better job in looking over the checklist. Moreover, I feel that I could have probably designed my invoice table a bit better and also the success-login and register-login.</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
