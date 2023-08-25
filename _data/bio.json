@@ -1,12 +1,12 @@
 {
    "basics":{
       "name":"Bobby Roth",
-      "label":"Shidler Underagraduate",
+      "label":"Student",
       "picture":"https://github.com/bobbyir.png",
       "email":"bobbyir@hawaii.edu",
       "phone":"571-277-8790",
       "website":"https://bobbyir.github.io",
-      "summary":"I am studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2024.",
+      "summary":"I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Fall, 2024.",
       "location":{
          "address":"",
          "postalCode":"96822",
@@ -40,7 +40,7 @@
       {
          "institution":"University of Hawaii, Honolulu, HI",
          "area":"Management Information Systems (expected Spring, 2024)",
-         "studyType":"BBA",
+         "studyType":"BS",
          "startDate":"2020-09-01",
          "endDate":"Present",
          "courses":[
