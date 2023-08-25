@@ -4,7 +4,7 @@ type: essay
 title: "WOD E-1"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-26
-published: true
+published: false
 ---
 
 <b>BrowserHistory1</b>
