@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mode.png
+image: img/opensource.jpg
 title: "Pick On Project"
 date: 2020
 published: true
@@ -12,7 +12,7 @@ summary: "Open Source Project."
 
 
 <div class="text-center p-4">
-  <img width="350px" height="300px" src="../img/opensource.jpg" class="img-thumbnail" style = "float: right" >
+  <img width="350px" height="300px" src="../img/mode.png" class="img-thumbnail" style = "float: right" >
 </div> 
 
 The PickOn project presents an exhilarating opportunity to enhance the classroom participation through an open-source information system. This project's vision to revolutionize class engagement, particularly in the context of online or hybrid learning environments, resonates with my interests. The ability to contribute to a platform that fosters interactive and dynamic learning experiences is incredibly appealing.
