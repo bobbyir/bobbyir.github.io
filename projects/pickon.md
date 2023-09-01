@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/neweclipse.png
+image: img/mode.png
 title: "Pick On Project"
 date: 2020
 published: true
@@ -11,7 +11,9 @@ summary: "Open Source Project."
 ---
 
 
-
+<div class="text-center p-4">
+  <img width="350px" height="300px" src="../img/opensource.jpg" class="img-thumbnail" style = "float: right" >
+</div> 
 
 The PickOn project presents an exhilarating opportunity to enhance the classroom participation through an open-source information system. This project's vision to revolutionize class engagement, particularly in the context of online or hybrid learning environments, resonates with my interests. The ability to contribute to a platform that fosters interactive and dynamic learning experiences is incredibly appealing.
 In the realm of the PickOn project, the Competition mode strikes me as an innovative approach to promoting engagement. Speed and accuracy are critical factors in real-world scenarios and incorporating them into a classroom context through interactive multiple-choice questions not only encourages active participation but also mimics the challenges students might face. I'm keen to explore how this mode could be expanded to incorporate different types of questions and challenges, fostering deeper critical thinking and problem-solving skills among students.
