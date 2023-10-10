@@ -15,7 +15,7 @@ Pre-built components like navigation bars, buttons, and forms not only speed up 
 
 <img src="../img/bootstrap.png" alt="bootstrap" width="650" style="display:inline-block;">
 
-## Unlimited Customization and Uniformity
+## Customization and Uniformity
 While Bootstrap stands out for its many benefits, it’s also crucial to acknowledge its limitations, especially in terms of customization. I like to think of bootstrap like a tool for a tool box. It has its simplistic and efficient design for customizing a website which can be good but also bad because you might want some more customization. This is where most of the web can tend to have a similar look and feel due to the default styles and components. 
 
 ## Learning Curve
