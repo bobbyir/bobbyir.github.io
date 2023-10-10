@@ -20,14 +20,10 @@ In projects demanding high degrees of customization, the limitations of Bootstra
 When it comes to the learning curve, Bootstrap 5 I found it very useful to look through a youtube tutorial first then reading the documentation. There are an abundance of classes that correspond to specific styles. Learning this was probably the hardest part of bootstrap. The aspects of class memorization, documentation dependency, and the lack of universally amplifying the learning curve for learning bootstrap, making the journey from beginner to proficient Bootstrap user a meticulous one.
 
 
-##My Projects With BootStrap
+## My Projects With BootStrap
 In my experience with bootstrap, I found it very enticing to see a visually appealing website be designed with very few amounts of work effort needed in the stylesheet. The following are examples of my bootstrap projects that I have worked with so far. 
 <p align="center">
-  <img src="../img/seycoffee.png" style = "width:250px">
-</p>
-<p align="center">
-  <img src="../img/murphey.png" style = "width:250px">
-</p>
-<p align="center">
-  <img src="../img/hiblend.png" style = "width:250px">
+  <img src="../img/seycoffee.png" alt="Seycoffee" width="250" style="display:inline-block;">
+  <img src="../img/murphey.png" alt="Murphey" width="250" style="display:inline-block;">
+  <img src="../img/hiblend.png" alt="Hiblend" width="250" style="display:inline-block;">
 </p>
