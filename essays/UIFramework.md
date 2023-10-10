@@ -6,18 +6,20 @@ title: "UI Framework"
 date: 2023-10-7
 published: true
 ---
-## Front-End Development with Bootstrap
-Since its release by Twitter in 2011, Bootstrap has become a ubiquitous tool for web developers, establishing itself as an effective and efficient UI framework for front-end development. As a novice in HTML/CSS, exploring Bootstrap has been a fun journey, particularly in understanding and implementing front-end development.
+## What are UIFrameworks?
+A UI framework is a software framework that allows developers to create, manage, and optimize user interfaces in a structured manner. They are used to create visually appealing user interfaces for websites, applications and digital products. One popular UI Framework that I have been introduced to is Bootstrap. Bootstrap has become a tool for an effective and efficient UI framework. 
+
 ## Simplicity and Practicality
-What caught my eye, and perhaps many beginners, towards Bootstrap, is its simplicity. Its layout is remarkably straightforward, facilitating an easier learning curve for newcomers to front-end development. The comprehensive documentation provides various examples and detailed explanations for each component, which is a blessing for anyone trying to grasp the understanding of web development.
-Pre-built components like navigation bars, buttons, and forms not only speed up the development process but also provide a consistent and aesthetically pleasing user interface. Thus, for anyone attempting to create simple and clean website layouts, Bootstrap lays down a phenomenal foundation, making it an valuable resource for those who are at the nascent stage of learning CSS.
+What caught my eye, and perhaps many beginners, towards Bootstrap, is its simplicity. Its layout is straightforward, making it an easier learning curve for newcomers to front-end development. The comprehensive documentation provides various examples and detailed explanations for each component, which is a blessing for anyone trying to grasp the understanding of web development.
+Pre-built components like navigation bars, buttons, and forms not only speed up the development process but also provide a consistent and aesthetically pleasing user interface. Thus, for anyone attempting to create simple and clean website layouts, Bootstrap lays down a phenomenal foundation, making it an valuable resource for those who are at the beginner stage of learning CSS.
+
+<img src="../img/seycoffee.png" alt="bootstrap" width="650" style="display:inline-block;">
 ## Unlimited Customization and Uniformity
-While Bootstrap stands out for its many benefits, it’s also crucial to acknowledge its limitations, especially in terms of customization and uniformity. In my perspective, Bootstrap can be likened to a comprehensive toolbox. 
-Mixing and matching Bootstrap components with custom stylesheets can be a tricky affair, especially for those who aren’t fully versed in CSS. One might encounter challenges like unintentionally overriding default styles or grappling with specificity issues.
-In projects demanding high degrees of customization, the limitations of Bootstrap become prominently visible. 
+While Bootstrap stands out for its many benefits, it’s also crucial to acknowledge its limitations, especially in terms of customization. I like to think of bootstrap like a tool for a tool box. It has its simplistic and efficient design for customizing a website which can be good but also bad because you might want some more customization. This is where most of the web can tend to have a similar look and feel due to the default styles and components. 
 
 ## Learning Curve
-When it comes to the learning curve, Bootstrap 5 I found it very useful to look through a youtube tutorial first then reading the documentation. There are an abundance of classes that correspond to specific styles. Learning this was probably the hardest part of bootstrap. The aspects of class memorization, documentation dependency, and the lack of universally amplifying the learning curve for learning bootstrap, making the journey from beginner to proficient Bootstrap user a meticulous one.
+When it comes to the learning curve, Bootstrap 5 I found it very useful to look through a youtube tutorial first then reading the documentation. There are an abundance of classes that correspond to specific styles. Learning this was probably the hardest part of bootstrap. However, other than that mostly everything was easy to understand from the documentation. The documentation is user-friendly and extensive which helped me grasp the fundamental concepts. 
+
 
 
 ## My Projects With BootStrap
