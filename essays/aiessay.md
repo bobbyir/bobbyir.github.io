@@ -13,20 +13,20 @@ But here's the thing: while these AI tools are amazing at giving us answers and 
 So, while AI is super helpful in some ways, like getting to the point and helping with coding, it's not the best at helping us be creative in software engineering. We've got to find a balance – use AI for the quick stuff but also work on our own creativity and problem-solving. That way, we'll be good at both the technical stuff and coming up with cool, new ideas.
 
 
-During Experience WOD’s I rarely have used chat GPT to help me. This was because the videos that were provided were more than enough to finish me through the assignment. 
-I have used chat GPT for the in class practice wods. One example is doing the murphy wod where we had to convert the format code for the website to react.
-During the Workouts of the Day (WODs) in my course, I often turned to ChatGPT for assistance. An example of this was during the "Buzz" WOD, where the challenge was to build an entire website in less than 40 minutes. When I encountered small syntax errors, which can be frustrating and time-consuming, ChatGPT quickly pointed me in the right direction, saving precious minutes. Its guidance was not just limited to fixing errors; it also helped me with styling aspects of the website. What made ChatGPT especially helpful was its ability to provide concise and accurate advice. Instead of sitting through lengthy documentation or searching online forums, I could get immediate responses allowing me to be efficient.
-Did not use
-In the final project i have asked chat gpt for help on the data modeling of our website.For example knowing how to link collections together and form relationships
-When learning a new concept, chat gpt is helpful in truly getting in depth knowledge. I can ask questions and it will respond formally and professionally.
-Did not use
-Did not use
-I do ask chat gpt to give examples of how certain codes work. For example in my final project I wanted to create a multipage form and I asked chat gpt to give me it.
-Most of the time when i read code that i find unfamiliar such as bowl folios I plug in the code in chat gpt. Surprisingly, chat gpt is smart enough to figure out what the code does.
-I mainly write my own code and ask chat gpt to fix it for me. However, I dont ask chat gpt to write me code unless its a basic outline structure and i am too lazy to type.
-Did not use
-Chat gpt is good at debugging code and i found it helpful to give chat gpt a big chunk of code and explain why a certain line in that particular code does not work. 
-None
+* During Experience WOD’s I rarely have used chat GPT to help me. This was because the videos that were provided were more than enough to finish me through the assignment. 
+* I have used chat GPT for the in class practice wods. One example is doing the murphy wod where we had to convert the format code for the website to react.
+* During the Workouts of the Day (WODs) in my course, I often turned to ChatGPT for assistance. An example of this was during the "Buzz" WOD, where the challenge was to build an entire website in less than 40 minutes. When I encountered small syntax errors, which can be frustrating and time-consuming, ChatGPT quickly pointed me in the right direction, saving precious minutes. Its guidance was not just limited to fixing errors; it also helped me with styling aspects of the website. What made ChatGPT especially helpful was its ability to provide concise and accurate advice. Instead of sitting through lengthy documentation or searching online forums, I could get immediate responses allowing me to be efficient.
+* Did not use
+* In the final project i have asked chat gpt for help on the data modeling of our website.For example knowing how to link collections together and form relationships
+* When learning a new concept, chat gpt is helpful in truly getting in depth knowledge. I can ask questions and it will respond formally and professionally.
+* Did not use
+* Did not use
+* I do ask chat gpt to give examples of how certain codes work. For example in my final project I wanted to create a multipage form and I asked chat gpt to give me it.
+* Most of the time when i read code that i find unfamiliar such as bowl folios I plug in the code in chat gpt. Surprisingly, chat gpt is smart enough to figure out what the code does.
+* I mainly write my own code and ask chat gpt to fix it for me. However, I dont ask chat gpt to write me code unless its a basic outline structure and i am too lazy to type.
+* Did not use
+* Chat gpt is good at debugging code and i found it helpful to give chat gpt a big chunk of code and explain why a certain line in that particular code does not work. 
+* None
 
 
 ## Impact on Learning and Understanding
