@@ -20,14 +20,14 @@
 
           {% if site.data.bio.basics.website %}
             {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
-            <div class="col text-center">
+            <div class="col text-center hover">
               {% include about/social.html url=url name='house' %}
             </div>
           {% endif %}
 
           {% if site.data.bio.basics.email %}
             {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
-            <div class="col text-center">
+            <div class="col text-center hover">
               {% include about/social.html url=url name='envelope' %}
             </div>
           {% endif %}
@@ -35,7 +35,7 @@
           {% for profile in site.data.bio.basics.profiles %}
             {% capture url %}{{ profile.url }}{% endcapture %}
             {% capture name %}{{ profile.network | downcase }}{% endcapture %}
-            <div class="col text-center">
+            <div class="col text-center hover">
               {% include about/social.html url=url name=name %}
             </div>
           {% endfor %}
@@ -43,7 +43,7 @@
   {% for profile in site.data.bio.basics.profiles %}
             {% capture url %}{{ profile.url }}{% endcapture %}
             {% capture name %}{{ profile.network | downcase }}{% endcapture %}
-          <div class="col text-center">
+          <div class="col text-center hover">
             <a href="https://www.linkedin.com/in/bobby-roth-89a5b8271/">
               <img src="path-to-linkedin-icon.png" alt="LinkedIn">
             </a>
