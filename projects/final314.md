@@ -35,22 +35,22 @@ The following below include some of the pages I have contributed with the design
 ## Landing Page
 
 <div class="text-center p-4">
-  <img  src="../img/landing.png" class="img-thumbnail" style = "float: right" >
+  <img  src="../img/landing.png" class="img-thumbnail" >
 </div> 
 
 ## Club Finder Page
 <div class="text-center p-4">
-  <img  src="../img/clubfinder.png" class="img-thumbnail" style = "float: right" >
+  <img  src="../img/clubfinder.png" class="img-thumbnail" >
 </div> 
 
 ## Profile Page
 <div class="text-center p-4">
-  <img  src="../img/Profile.png" class="img-thumbnail" style = "float: right" >
+  <img  src="../img/Profile.png" class="img-thumbnail" >
 </div> 
 
 ## Events Page
 <div class="text-center p-4">
-  <img  src="../img/eventcalendar.png" class="img-thumbnail" style = "float: right" >
+  <img  src="../img/eventcalendar.png" class="img-thumbnail" >
 </div> 
 ```
 
