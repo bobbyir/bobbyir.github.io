@@ -40,6 +40,16 @@
             </div>
           {% endfor %}
 
+  {% for profile in site.data.bio.basics.profiles %}
+            {% capture url %}{{ profile.url }}{% endcapture %}
+            {% capture name %}{{ profile.network | downcase }}{% endcapture %}
+          <div class="col text-center">
+            <a href="https://www.linkedin.com/in/yourprofile">
+              <img src="path-to-linkedin-icon.png" alt="LinkedIn">
+            </a>
+          </div>
+          {% endfor %}
+
         </div>
       </div>
     </div>
