@@ -19,7 +19,9 @@
             "network":"github",
             "username":"bobbyir",
             "url":"http://github.com/bobbyir"
-         }
+         },
+
+        { "network":"linkedin", "username": "bobbyir", "url" : "https://www.linkedin.com/in/bobby-roth-89a5b8271/" },
       ]
    },
    "interests":[
@@ -44,7 +46,7 @@
          "startDate":"2020-09-01",
          "endDate":"Present",
          "courses":[
-            
+
          ]
       }
    ]
