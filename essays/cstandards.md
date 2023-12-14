@@ -18,7 +18,7 @@ In my week of using ESLint with IntelliJ, I've discovered the green checkmark is
   <img  src="../img/eslint.png" class="img-thumbnail" >
 </div> 
 
-## The Role of Coding Standards in Project Scalability and Community Engagement
+## The Role of Coding Standards
 
 Coding standards play an important role in the scalability of software projects. As projects grow in size and complexity, consistent coding practices become increasingly important. They ensure that the code remains manageable and that new team members can quickly become productive. In environments where multiple developers are contributing to the same codebase, uniformity in coding makes it easier to integrate new features, and it reduces the risk of conflicts or integration issues.
 
