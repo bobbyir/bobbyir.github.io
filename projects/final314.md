@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/meteor.png
-title: "ICS314 Final Project"
+image: img/uhnify.png
+title: "UHnify"
 date: 2023
 published: true
 labels:
