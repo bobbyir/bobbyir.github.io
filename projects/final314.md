@@ -17,13 +17,16 @@ summary: "UHnify is designed to be a discovery platform; it's a hub for fosterin
 
 &nbsp;&nbsp;&nbsp;&nbsp;
  
-
+## Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;In this exciting project, I had the opportunity to contribute significantly to various aspects, enhancing both the functionality and the user experience. My key contributions included developing the Landing Page, which serves as the welcoming interface for users. I also played a crucial role in designing the data model for clubs, ensuring efficient data management and accessibility. Furthermore, I created the profiles page, providing a personalized user experience, and implemented a search bar and filter feature to streamline navigation and content discovery. Another notable contribution was the creation of an events calendar, which added dynamic content and interaction for the users. Beyond these, I was involved in creating additional functionalities and managing admin data, which allowed for smooth operation and maintenance of the project.
 <div class="text-center p-4">
   <img  src="../img/handson.png" class="img-thumbnail" style = "float: right" >
 </div> 
+## How Does UHnify Work?
+When approaching the landing page of the website users can browse the different clubs that are available on campus. They add to there collection of clubs by clicking the "add to my clubs button". Furthermore, they can click on more details to find out more information on the club. Once a user has added to there collection of clubs, they can look at all the events that are currently going on for the current collection of clubs you are enrolled in as well as all the events that are currently going on. 
+## My Experience
 &nbsp;&nbsp;&nbsp;&nbsp;As a beginner in React, with a background in JavaScript and CSS, this project was a substantial learning curve for me. I gained practical knowledge and hands-on experience in using hooks, collections, back-end databases, methods, publications, and subscriptions. This project enhanced my understanding of React and Meteor, teaching me the importance of developing a full web application. 
-
+## Full Stack Web Application
 &nbsp;&nbsp;&nbsp;&nbsp;
 Initially, Meteor was indeed a challenge, given its complexity as a full-stack platform. However, I was amazed by Meteor's seamless integration of frontend and backend development. The real-time capabilities it offers, especially with data synchronization between client and server, transformed the way I approached building reactive applications. Its out-of-the-box support for MongoDB and the ease of setting up user authentication were other highlights that significantly streamlined development. This experience not only enhanced my technical skills but also boosted my confidence in tackling complex full-stack projects. 
 
