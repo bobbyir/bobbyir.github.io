@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: "Reflect on ics 414"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-18
+published: true
+---
+
 ## Reflecting on My Experience in ICS 414: Software Engineering II
 This semester in ICS 414: Software Engineering II, I had the opportunity to engage in real-world software development processes, enhancing my technical skills, teamwork, and understanding of professional software engineering practices. The course presented challenges and learning experiences that pushed me to grow both as a programmer and as a collaborator.
 ### Technical Skills Development
