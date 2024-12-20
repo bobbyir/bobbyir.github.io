@@ -7,7 +7,7 @@ date: 2024-12-18
 published: true
 ---
 
-## Reflecting on My Experience in ICS 414: Software Engineering II
+## Reflecting on My Experience in ICS 414
 This semester in ICS 414: Software Engineering II, I had the opportunity to engage in real-world software development processes, enhancing my technical skills, teamwork, and understanding of professional software engineering practices. The course presented challenges and learning experiences that pushed me to grow both as a programmer and as a collaborator.
 ### Technical Skills Development
 One of the most significant areas of growth for me was in technical proficiency. Throughout the semester, I worked on a complex project that required the integration of front-end, back-end, and database systems. I deepened my understanding of frameworks such as React, Meteor, and MongoDB, technologies that are widely used in modern web application development
