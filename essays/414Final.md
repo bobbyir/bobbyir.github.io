@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "UI Framework"
+title: "414 Final Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2023-10-7
+date: 2024-12-18
 published: true
 ---
 ## Reflecting on My Experience in ICS 414
