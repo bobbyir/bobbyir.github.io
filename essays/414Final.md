@@ -12,6 +12,9 @@ This semester in ICS 414: Software Engineering II, I had the opportunity to enga
 One of the most significant areas of growth for me was in technical proficiency. Throughout the semester, I worked on a complex project that required the integration of front-end, back-end, and database systems. I deepened my understanding of frameworks such as React, Meteor, and MongoDB, technologies that are widely used in modern web application development
 Debugging real-time issues in the system taught me the importance of error handling.
 Moreover, I learned the value of writing clean, maintainable code. Following software design patterns and adhering to best practices, such as breaking tasks into smaller modular components, was crucial for project scalability.
+
+<img  src="../img/im1.jpg" class="img-thumbnail" >
+
 ### Team Collaboration and Agile Methodology
 ICS 414 was not just about coding—it was about learning how to collaborate effectively in a team. We adopted Agile development practices, to manage our project milestones. Regular reviews and customer meetings allowed us to remain organized, aligned, and adaptive to changes.
 Working on a team project introduced me to challenges such as resolving merge conflicts in Git, balancing differing opinions, and managing task assignments. This process highlighted the importance of clear communication and collective decision-making. Through peer code reviews, I also learned to give and receive constructive feedback, further improving our project quality.
@@ -35,6 +38,7 @@ One of the most rewarding challenges was implementing projections for financial 
 I had the opportunity to work on a complex financial data management system, focusing primarily on backend development and data processing. The project enhanced my understanding of full-stack development, particularly in handling financial data transformations and database management.
 
 <img  src="../img/im1.jpg" class="img-thumbnail" >
+
 ### Growth 
 ICS 414 provided me with valuable insights into what it means to work as a professional software engineer. The emphasis on real-world deliverables and client interactions simulated an industry environment. By the end of the semester, I gained a better understanding of software deployment, documentation, and design principles.
 Moreover, the course emphasized the importance of lifelong learning. Whether it was exploring new libraries, researching software architecture, or troubleshooting unforeseen issues, I learned to embrace continuous learning as an essential mindset for a successful software engineering career.
