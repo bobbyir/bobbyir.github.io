@@ -13,7 +13,7 @@ One of the most significant areas of growth for me was in technical proficiency.
 Debugging real-time issues in the system taught me the importance of error handling.
 Moreover, I learned the value of writing clean, maintainable code. Following software design patterns and adhering to best practices, such as breaking tasks into smaller modular components, was crucial for project scalability.
 
-<img  src="../img/im2.jpg" class="img-thumbnail" >
+<img src="../img/im2.jpg" class="img-thumbnail" width="200" height="200">
 
 ### Team Collaboration and Agile Methodology
 ICS 414 was not just about coding—it was about learning how to collaborate effectively in a team. We adopted Agile development practices, to manage our project milestones. Regular reviews and customer meetings allowed us to remain organized, aligned, and adaptive to changes.
