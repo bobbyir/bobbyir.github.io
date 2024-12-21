@@ -33,6 +33,8 @@ This course came with its fair share of challenges. Early in the project, our te
 One of the most rewarding challenges was implementing projections for financial data, requiring advanced calculations and understanding of user requirements. This pushed me to research beyond the course materials and develop creative solutions.
 
 I had the opportunity to work on a complex financial data management system, focusing primarily on backend development and data processing. The project enhanced my understanding of full-stack development, particularly in handling financial data transformations and database management.
+
+<img  src="../img/im1.jpg" class="img-thumbnail" >
 ### Growth 
 ICS 414 provided me with valuable insights into what it means to work as a professional software engineer. The emphasis on real-world deliverables and client interactions simulated an industry environment. By the end of the semester, I gained a better understanding of software deployment, documentation, and design principles.
 Moreover, the course emphasized the importance of lifelong learning. Whether it was exploring new libraries, researching software architecture, or troubleshooting unforeseen issues, I learned to embrace continuous learning as an essential mindset for a successful software engineering career.
