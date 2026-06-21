@@ -4,12 +4,13 @@
       "label":"Student",
       "picture":"https://github.com/bobbyir.png",
       "email":"bobbyir@hawaii.edu",
-      "phone":"571-277-8790",
+      "phone":"08040402608",
       "website":"https://bobbyir.github.io",
-      "summary":"I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Fall, 2024.",
+      "summary":"CompTIA Network+ certified IT support professional with hands-on experience troubleshooting network connectivity issues, configuring switches and VLANs, and providing technical support to end users. Strong background in customer service with proven communication and problem-solving skills developed through fast-paced customer-facing roles. Passionate about technology, quick to learn new systems, and committed to delivering exceptional support while continuously expanding my knowledge of networking, cybersecurity, and IT infrastructure.
+",
       "location":{
          "address":"",
-         "postalCode":"96822",
+         "postalCode":"96814",
          "city":"Honolulu",
          "countryCode":"USA",
          "region":"Hawaii"
@@ -25,9 +26,41 @@
       ]
    },
   "work": [
+     {
+  "company": "ATCC",
+  "position": "Customer Support Technician",
+  "website": "",
+  "startDate": "2025",
+  "endDate": "2026",
+  "summary": "Provided Tier 1 technical support by troubleshooting network and connectivity issues while assisting customers with hardware and software problems.",
+  "highlights": [
+    "Troubleshot network connectivity issues across routers, switches, and access points",
+    "Configured and supported VLANs, DHCP, NAT, and IP addressing",
+    "Performed switch configuration using CLI for port setup and VLAN assignments",
+    "Used ping, traceroute, and Wireshark to diagnose and resolve technical issues",
+    "Installed and maintained PoE access points and network switches",
+    "Documented support cases and communicated technical solutions to end users",
+    "Collaborated with team members to escalate and resolve complex technical issues"
+  ]
+},
+     {
+  "company": "Happy Bowls",
+  "position": "Shift Lead",
+  "website": "",
+  "startDate": "2021",
+  "endDate": "2022",
+  "summary": "Led daily store operations while delivering excellent customer service in a fast-paced environment.",
+  "highlights": [
+    "Supervised team members and delegated daily tasks",
+    "Handled cash register operations and balanced end-of-day transactions",
+    "Prepared food while maintaining quality and food safety standards",
+    "Resolved customer concerns professionally and efficiently",
+    "Trained new employees on store procedures and customer service"
+  ]
+},
     {
       "company": "HI Blend Health Bar & Cafe",
-      "position": "Store/Cleanup Associate",
+      "position": "Shift Lead",
       "website": "https://www.hiblendcafe.com/",
       "startDate": "2022",
       "endDate": "Present",
